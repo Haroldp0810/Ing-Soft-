@@ -9,8 +9,8 @@ plugins {
 
 sonarqube {
 	properties {
-		property "sonar.projectKey", "JCASTANO_ingsw3"
-		property "sonar.organization", "jcastano"
+		property "sonar.projectKey", "Haroldp0810_Ing-Soft-"
+		property "sonar.organization", "haroldp0810"
 		property "sonar.host.url", "https://sonarcloud.io"
 	}
 }
